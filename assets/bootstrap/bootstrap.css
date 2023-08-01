@@ -5454,6 +5454,7 @@ textarea.form-control-lg {
 
 .modal {
   position: fixed;
+  align-items: center;
   top: 0;
   left: 0;
   z-index: 1055;
@@ -5468,7 +5469,7 @@ textarea.form-control-lg {
 .modal-dialog {
   position: relative;
   width: auto;
-  margin: 0.5rem;
+height: fit-content;
   pointer-events: none;
 }
 .modal.fade .modal-dialog {

@@ -86,6 +86,7 @@
         if (columns.xs) {
           columnClasses += ` col-${Math.ceil(12 / columns.xs)}`;
         }
+        /* PurgeCss col-auto col-1 col-1 col-3 col-4*/
         if (columns.sm) {
           columnClasses += ` col-sm-${Math.ceil(12 / columns.sm)}`;
         }

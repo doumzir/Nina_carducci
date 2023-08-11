@@ -1,3 +1,0 @@
-/*unction mauGAllery (options){
-  options =
-}*/
